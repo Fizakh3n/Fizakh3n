@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fizakh3n
+- 👋 Hi, I’m Fiza Khan 
 - 👀 I’m interested in data analytics and product management 
 - 🌱 I’m currently learning new programming lanaguages and skills 
 - 💞️ I’m looking to collaborate on projects 

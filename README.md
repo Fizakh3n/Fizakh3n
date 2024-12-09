@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97BDgiUlDi_y9IWUw7Ir8gLUE6rMs0CDVPSoHtVccdsoK2yTRqQ9CsQe3O-Dqaa5rcQ&usqp=CAU" alt="Banner" style="width:100%; max-width:800px; height:auto;">
 <h1 align="center">Hi 👋, I'm Fiza Khan</h1>
-<h3 align="center">An Aspiring Data Analyst who is furthermore interested in product management.</h3>
+<h3 align="center">An Aspiring Data Scientist!.</h3>
 <img src="https://www.shutterstock.com/image-vector/desktop-top-view-laptop-books-600nw-1958186488.jpg"  alt="Description of the image" style="float: left; margin-right: 10px;" width="500" height="300">
 
 - 🌱 I’m currently learning **New Programming Languages and skills.**

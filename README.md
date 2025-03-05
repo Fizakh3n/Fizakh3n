@@ -1,11 +1,7 @@
-![Banner]()
+![Banner](https://codilime.com/img/header-backend-tools.png)
+<h1 align="center">Hello ! I'm Fiza Khan , Welcome to my github profile ! </h1>
+<h2 align='center'> I am a DATA SCIENTIST & DATA ANALYST . </h2>
 
-<h1 align="center">Hi 👋, I'm Fiza Khan</h1>
-<h3 align="center">A Data Scientist! 🚀</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
-</p>
 
 ---
 
@@ -18,7 +14,7 @@
 ---
 
 ### 🛠 Tech Stack:
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
@@ -28,15 +24,21 @@
 ---
 
 ### 📬 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/fiza-kha3n" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiza-kha3n" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/fiza-kha3n" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ### 🎯 Stats & Profile Visits:
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=github_dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="48%" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
@@ -45,4 +47,4 @@
 ### 💡 Fun Section:
 - 🔥 **What I’m working on:** Building cool machine learning models!
 - 🎯 **2025 Goals:** Land an amazing internship & level up in Data Science.
-- 🏆 **Achievements:** Successfully built projects & collaborated on open-source.
+- 🏆 **Achievements:** Successfully built projects & added value.

@@ -1,4 +1,7 @@
-![Banner](https://codilime.com/img/header-backend-tools.png)
+<p align="center">
+  <img src="https://gitprotect.io/blog/wp-content/uploads/2022/09/github-disaster-recovery.png" alt="Banner" width="1080" height="300">
+</p>
+
 <h1 align="center">Hello ! I'm Fiza Khan , Welcome to my github profile ! </h1>
 <h2 align='center'> I am a DATA SCIENTIST & DATA ANALYST . </h2>
 

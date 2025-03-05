@@ -38,11 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizakh3n&layout=compact&theme=radical&hide_border=true" width="48%" alt="Most Used Languages"/>
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
-</p>
-
 ---
 
 ### 💡 Fun Section:

@@ -1,7 +1,7 @@
 ![Banner]()
 
 <h1 align="center">Hi 👋, I'm Fiza Khan</h1>
-<h3 align="center">An Aspiring Data Scientist! 🚀</h3>
+<h3 align="center">A Data Scientist! 🚀</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
@@ -27,13 +27,6 @@
 
 ---
 
-### 📌 Pinned Projects:
-- 🚀 [**Project Name**](#) - Short description of what it does.
-- 🔍 [**Another Project**](#) - Brief details about it.
-- 📊 [**Data Visualization Project**](#) - Showcasing amazing insights.
-
----
-
 ### 📬 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/fiza-kha3n" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiza-kha3n" height="30" width="40" /></a>
@@ -51,5 +44,5 @@
 
 ### 💡 Fun Section:
 - 🔥 **What I’m working on:** Building cool machine learning models!
-- 🎯 **2024 Goals:** Land an amazing internship & level up in Data Science.
+- 🎯 **2025 Goals:** Land an amazing internship & level up in Data Science.
 - 🏆 **Achievements:** Successfully built projects & collaborated on open-source.

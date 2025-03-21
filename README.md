@@ -42,5 +42,4 @@
 
 ### 💡 Fun Section:
 - 🔥 **What I’m working on:** Building cool machine learning models!
-- 🎯 **2025 Goals:** Land an amazing internship & level up in Data Science.
 - 🏆 **Achievements:** Successfully built projects & added value.

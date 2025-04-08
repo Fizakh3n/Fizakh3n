@@ -17,7 +17,7 @@
 - 🌱 Currently learning **new skills and implementing them through projects**
 - 👯 Looking to collaborate on **exciting data science problems**
 - 📫 Reach me at: [mfizakhan05@gmail.com](mailto:mfizakhan05@gmail.com)
-- ⚡ Fun fact: I can fly... at least in my dreams 😄
+- ⚡ Fun fact: I don’t believe in overfitting—neither in models, nor in life.
 
 ---
 

@@ -35,10 +35,10 @@
 ### 📌 Featured Projects:
 Here are some of my top projects you can explore:
 
-- ✅ [Customer Segmentation & Classification](https://github.com/Fizakh3n/customer-segmentation-classification)
-- ✅ [Flight Price Prediction](https://github.com/Fizakh3n/flight-price-prediction)
-- ✅ [Amazon Sales Dashboard](https://github.com/Fizakh3n/amazon-sales-dashboard)
-- ✅ [Potato Disease Classifier](https://github.com/Fizakh3n/potato-disease-classifier)
+- ✅ [Customer Segmentation & Classification](https://github.com/Fizakh3n/Customer-Segmentation-Classification-)
+- ✅ [Flight Price Prediction](https://github.com/Fizakh3n/Flight-Price-Prediction-)
+- ✅ [Amazon Sales Dashboard](https://github.com/Fizakh3n/Amazon-Sales-Retention)
+- ✅ [Potato Disease Classifier](https://github.com/Fizakh3n/Potato-disease-Classifier)
 
 ---
 

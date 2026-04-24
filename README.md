@@ -18,7 +18,8 @@ fiza = {
     "currently"  : "Building agentic AI systems that actually do things",
     "background" : "Data Science → ML Engineering → GenAI",
     "interests"  : ["LLMs", "RAG pipelines", "real-world ML", "agentic workflows"],
-    ""     : "Models should solve problems, not just score metrics"
+    "approach"   : "Models should solve problems, not just score metrics",
+    "fun_fact"   : "painter by mood, love to travel and stay spiritually grounded"
 }
 ```
 

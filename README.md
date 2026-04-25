@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=180&section=header&text=Fiza%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%94%20ML%20Engineer%20%E2%80%94%20GenAI%20Builder&descAlignY=58&descSize=16&descColor=b490f5&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=180&section=header&text=Fiza%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Developer%20%E2%80%94%20Building%20ML%20%26%20GenAI%20Systems&descAlignY=58&descSize=16&descColor=b490f5&animation=fadeIn" width="100%"/>
 </div>
+
 <br/>
 
 <div align="center">
@@ -25,6 +26,8 @@ fiza = {
 ---
 
 ## What I Work With
+
+<div align="center">
 
 **AI & GenAI**
 
@@ -54,49 +57,105 @@ fiza = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
+</div>
+
 ---
 
 ## Projects
 
-**AutoStream AI — Conversational Lead Generation Agent**
-> Agentic workflow that detects user intent, answers product questions from a RAG knowledge base, and captures leads only when the user shows genuine buying intent. Built with LangGraph state management and a FastAPI + HTML/CSS/JS frontend.
-> `Python` `LangGraph` `Groq` `RAG` `FastAPI` `LangChain`
-> [→ View Repo](https://github.com/Fizakh3n/autostream-agent)
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
----
+### 🤖 AutoStream AI
+**Conversational Lead Generation Agent**
 
-**Grid07 — AI Cognitive Routing & Multi-Phase Bot System**
-> Multi-phase agentic system with semantic intent routing (Sentence Transformers), LangGraph-powered content generation, and prompt injection defense. Explores how LLMs handle trust boundaries and adversarial inputs at the system prompt level.
-> `Python` `LangGraph` `Sentence Transformers` `Groq` `Prompt Engineering`
-> [→ View Repo](https://github.com/Fizakh3n/grid07)
+Agentic workflow that detects user intent, answers product questions from a RAG knowledge base, and captures leads only when the user shows genuine buying intent.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f97316?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Customer Segmentation & Classification**
-> End-to-end ML pipeline for segmenting customers and predicting behavior using clustering and classification models.
-> `Python` `Scikit-Learn` `Pandas`
-> [→ View Repo](https://github.com/Fizakh3n/Customer-Segmentation-Classification-)
+[→ View Repo](https://github.com/Fizakh3n/autostream-agent)
 
----
+</td>
+<td width="50%" valign="top" align="center">
 
-**Flight Price Prediction**
-> Regression model to forecast airline ticket prices with feature engineering on time, route, and airline data.
-> `Python` `Regression` `Feature Engineering`
-> [→ View Repo](https://github.com/Fizakh3n/Flight-Price-Prediction-)
+### 🧠 Grid07
+**AI Cognitive Routing & Multi-Phase Bot**
 
----
+Multi-phase agentic system with semantic intent routing, LangGraph-powered content generation, and prompt injection defense at the system prompt level.
 
-**Amazon Sales Dashboard**
-> Visual analytics project focused on customer retention insights using SQL queries and Python visualizations.
-> `SQL` `Seaborn` `Matplotlib`
-> [→ View Repo](https://github.com/Fizakh3n/Amazon-Sales-Retention)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=flat-square&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-0369a1?style=flat-square&logoColor=white)
 
----
+[→ View Repo](https://github.com/Fizakh3n/grid07)
 
-**Potato Disease Classifier**
-> CNN-based deep learning model for plant disease detection from leaf images.
-> `TensorFlow` `CNN` `Computer Vision`
-> [→ View Repo](https://github.com/Fizakh3n/Potato-disease-Classifier)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 👥 Customer Segmentation
+**ML Classification Pipeline**
+
+End-to-end ML pipeline for segmenting customers and predicting behavior using clustering and classification models.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+[→ View Repo](https://github.com/Fizakh3n/Customer-Segmentation-Classification-)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### ✈️ Flight Price Prediction
+**Regression & Feature Engineering**
+
+ML model to forecast airline ticket prices with feature engineering on time, route, and airline data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+[→ View Repo](https://github.com/Fizakh3n/Flight-Price-Prediction-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 📦 Amazon Sales Dashboard
+**Visual Analytics & Retention**
+
+Visual analytics project focused on customer retention insights using SQL queries and Python visualizations.
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+
+[→ View Repo](https://github.com/Fizakh3n/Amazon-Sales-Retention)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🥔 Potato Disease Classifier
+**Deep Learning & Computer Vision**
+
+CNN-based deep learning model for plant disease detection from leaf images.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[→ View Repo](https://github.com/Fizakh3n/Potato-disease-Classifier)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 

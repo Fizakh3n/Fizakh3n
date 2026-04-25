@@ -1,9 +1,8 @@
-
 <div align="center">
 
-<h1>Fiza Khan</h1>
+![header](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=40&pause=1000&color=B490F5&center=true&vCenter=true&width=600&height=80&lines=Hi+I'm+Fiza+Khan+👋)
 
-<p>Data Scientist & AI Developer — Building ML & GenAI Systems</p>
+![subheader](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&pause=2000&color=ffffff&center=true&vCenter=true&width=600&height=40&lines=Data+Scientist+%26+AI+Developer;Building+ML+%26+GenAI+Systems;LangGraph+%7C+RAG+%7C+Agentic+AI)
 
 <br/>
 
@@ -13,16 +12,7 @@
 <a href="https://my-portfolio-nine-delta-79.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </div>
-<br/>
 
-<div align="center">
-<a href="https://linkedin.com/in/fiza-kh3n"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:mfizakhan05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Fizakh3n"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://my-portfolio-nine-delta-79.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=vercel&logoColor=white"/></a>
-</div>
-
-<br/>
 
 ```python
 fiza = {
